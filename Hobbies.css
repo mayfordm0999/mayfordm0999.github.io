@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 body {
     background-color: #ccffff;
 }
@@ -9,17 +5,4 @@ h1 {
     color: #00004d;
     margin-left: 40px;
 } 
-</style>
-</head>
-<body>
 
-<h1>Hobbies</h1>
-<p>My favorite hobby is to draw. I like drawing because it is relaxing and the more I practice the prettier it gets. <p><a href="http://youthartssd.org/">Click to see this Youth Arts Academy.</a></p></p>
-<img src="WIN_20171002_19_53_21_Pro.jpg" style="width:304px;height:228px;">
-<img src="WIN_20171002_19_54_06_Pro.jpg" style="width:304px;height:228px;">
-<video width="320" height="240" controls>  
-<source src="WIN_20171002_19_55_40_Pro.mp4">
-</video>
-<p><a href="index.html">Home Page</a></p>
-</body>
-</html>
